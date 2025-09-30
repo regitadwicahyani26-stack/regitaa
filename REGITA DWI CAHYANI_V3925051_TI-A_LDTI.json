@@ -1,0 +1,860 @@
+{
+    "Kementerian_Keuangan_SAI": [
+        {
+            "id": 1,
+            "nama_unit": "Direktorat Jenderal Pajak",
+            "singkatan": "DJP",
+            "fungsi": "Mengelola penerimaan pajak",
+            "alamat": "Jl. Jenderal Gatot Subroto Kav. 40-42, Jakarta",
+            "telepon": "+62-21-5250200"
+        },
+        {
+            "id": 2,
+            "nama_unit": "Direktorat Jenderal Bea dan Cukai",
+            "singkatan": "DJBC",
+            "fungsi": "Mengelola penerimaan bea dan cukai",
+            "alamat": "Jl. Jenderal Ahmad Yani No. 2, Jakarta",
+            "telepon": "+62-21-3841111"
+        },
+        {
+            "id": 3,
+            "nama_unit": "Direktorat Jenderal Anggaran",
+            "singkatan": "DJA",
+            "fungsi": "Menyusun dan mengelola anggaran negara",
+            "alamat": "Jl. Lapangan Banteng Timur No. 2-4, Jakarta",
+            "telepon": "+62-21-3845000"
+        },
+        {
+            "id": 4,
+            "nama_unit": "Direktorat Jenderal Perbendaharaan",
+            "singkatan": "DJPb",
+            "fungsi": "Mengelola kas negara dan pelaksanaan anggaran",
+            "alamat": "Jl. Lapangan Banteng Timur No. 2-4, Jakarta",
+            "telepon": "+62-21-3845000"
+        },
+        {
+            "id": 5,
+            "nama_unit": "Direktorat Jenderal Kekayaan Negara",
+            "singkatan": "DJKN",
+            "fungsi": "Mengelola kekayaan negara",
+            "alamat": "Jl. Lapangan Banteng Timur No. 2-4, Jakarta",
+            "telepon": "+62-21-3845000"
+        },
+        {
+            "id": 6,
+            "nama_unit": "Badan Kebijakan Fiskal",
+            "singkatan": "BKF",
+            "fungsi": "Menyusun kebijakan fiskal",
+            "alamat": "Jl. Lapangan Banteng Timur No. 2-4, Jakarta",
+            "telepon": "+62-21-3845000"
+        },
+        {
+            "id": 7,
+            "nama_unit": "Badan Pendidikan dan Pelatihan Keuangan",
+            "singkatan": "BPPK",
+            "fungsi": "Menyelenggarakan pendidikan dan pelatihan keuangan",
+            "alamat": "Jl. Lapangan Banteng Timur No. 2-4, Jakarta",
+            "telepon": "+62-21-3845000"
+        },
+        {
+            "id": 8,
+            "nama_unit": "Inspektorat Jenderal",
+            "singkatan": "Itjen",
+            "fungsi": "Melakukan pengawasan internal",
+            "alamat": "Jl. Lapangan Banteng Timur No. 2-4, Jakarta",
+            "telepon": "+62-21-3845000"
+        },
+        {
+            "id": 9,
+            "nama_unit": "Sekretariat Jenderal",
+            "singkatan": "Setjen",
+            "fungsi": "Menyelenggarakan administrasi umum kementerian",
+            "alamat": "Jl. Lapangan Banteng Timur No. 2-4, Jakarta",
+            "telepon": "+62-21-3845000"
+        },
+        {
+            "id": 10,
+            "nama_unit": "Direktorat Jenderal Pengelolaan Pembiayaan dan Risiko",
+            "singkatan": "DJPPR",
+            "fungsi": "Mengelola pembiayaan dan risiko keuangan negara",
+            "alamat": "Jl. Lapangan Banteng Timur No. 2-4, Jakarta",
+            "telepon": "+62-21-3845000"
+        },
+        {
+            "id": 11,
+            "nama_unit": "Kantor Pelayanan Pajak Pratama Jakarta Selatan",
+            "singkatan": "KPP Pratama Jaksel",
+            "fungsi": "Pelayanan pajak untuk wilayah Jakarta Selatan",
+            "alamat": "Jl. Mampang Prapatan No. 10, Jakarta Selatan",
+            "telepon": "+62-21-7911234"
+        },
+        {
+            "id": 12,
+            "nama_unit": "Kantor Pelayanan Pajak Pratama Bandung",
+            "singkatan": "KPP Pratama Bandung",
+            "fungsi": "Pelayanan pajak untuk wilayah Bandung",
+            "alamat": "Jl. Asia Afrika No. 123, Bandung",
+            "telepon": "+62-22-4234567"
+        },
+        {
+            "id": 13,
+            "nama_unit": "Kantor Pelayanan Bea dan Cukai Tanjung Priok",
+            "singkatan": "KPPBC Tanjung Priok",
+            "fungsi": "Pelayanan bea dan cukai di pelabuhan Tanjung Priok",
+            "alamat": "Jl. Pelabuhan No. 1, Jakarta Utara",
+            "telepon": "+62-21-4391234"
+        },
+        {
+            "id": 14,
+            "nama_unit": "Kantor Pelayanan Perbendaharaan Negara Jakarta",
+            "singkatan": "KPPN Jakarta",
+            "fungsi": "Pelayanan perbendaharaan negara di Jakarta",
+            "alamat": "Jl. Lapangan Banteng Timur No. 2-4, Jakarta",
+            "telepon": "+62-21-3845000"
+        },
+        {
+            "id": 15,
+            "nama_unit": "Kantor Wilayah Direktorat Jenderal Pajak Jawa Barat",
+            "singkatan": "Kanwil DJP Jabar",
+            "fungsi": "Koordinasi dan pengawasan DJP di Jawa Barat",
+            "alamat": "Jl. Asia Afrika No. 123, Bandung",
+            "telepon": "+62-22-4234567"
+        },
+        {
+            "id": 16,
+            "nama_unit": "Kantor Wilayah Direktorat Jenderal Bea dan Cukai Jawa Barat",
+            "singkatan": "Kanwil DJBC Jabar",
+            "fungsi": "Koordinasi dan pengawasan DJBC di Jawa Barat",
+            "alamat": "Jl. Asia Afrika No. 123, Bandung",
+            "telepon": "+62-22-4234567"
+        },
+        {
+            "id": 17,
+            "nama_unit": "Kantor Wilayah Direktorat Jenderal Perbendaharaan Jawa Barat",
+            "singkatan": "Kanwil DJPb Jabar",
+            "fungsi": "Koordinasi dan pengawasan DJPb di Jawa Barat",
+            "alamat": "Jl. Asia Afrika No. 123, Bandung",
+            "telepon": "+62-22-4234567"
+        },
+        {
+            "id": 18,
+            "nama_unit": "Kantor Wilayah Direktorat Jenderal Kekayaan Negara Jawa Barat",
+            "singkatan": "Kanwil DJKN Jabar",
+            "fungsi": "Koordinasi dan pengawasan DJKN di Jawa Barat",
+            "alamat": "Jl. Asia Afrika No. 123, Bandung",
+            "telepon": "+62-22-4234567"
+        },
+        {
+            "id": 19,
+            "nama_unit": "Pusat Data dan Teknologi Informasi",
+            "singkatan": "Pusdatin",
+            "fungsi": "Mengelola data dan teknologi informasi kementerian",
+            "alamat": "Jl. Lapangan Banteng Timur No. 2-4, Jakarta",
+            "telepon": "+62-21-3845000"
+        },
+        {
+            "id": 20,
+            "nama_unit": "Biro Hukum",
+            "singkatan": "Biro Hukum",
+            "fungsi": "Menyediakan layanan hukum dan regulasi",
+            "alamat": "Jl. Lapangan Banteng Timur No. 2-4, Jakarta",
+            "telepon": "+62-21-3845000"
+        },
+        {
+            "id": 21,
+            "nama_unit": "Biro Komunikasi dan Layanan Informasi",
+            "singkatan": "Biro Kominfo",
+            "fungsi": "Mengelola komunikasi dan layanan informasi publik",
+            "alamat": "Jl. Lapangan Banteng Timur No. 2-4, Jakarta",
+            "telepon": "+62-21-3845000"
+        },
+        {
+            "id": 22,
+            "nama_unit": "Biro Umum",
+            "singkatan": "Biro Umum",
+            "fungsi": "Menyelenggarakan layanan umum dan fasilitas",
+            "alamat": "Jl. Lapangan Banteng Timur No. 2-4, Jakarta",
+            "telepon": "+62-21-3845000"
+        },
+        {
+            "id": 23,
+            "nama_unit": "Biro Kepegawaian",
+            "singkatan": "Biro Kepegawaian",
+            "fungsi": "Mengelola administrasi kepegawaian",
+            "alamat": "Jl. Lapangan Banteng Timur No. 2-4, Jakarta",
+            "telepon": "+62-21-3845000"
+        },
+        {
+            "id": 24,
+            "nama_unit": "Biro Keuangan",
+            "singkatan": "Biro Keuangan",
+            "fungsi": "Mengelola keuangan internal kementerian",
+            "alamat": "Jl. Lapangan Banteng Timur No. 2-4, Jakarta",
+            "telepon": "+62-21-3845000"
+        },
+        {
+            "id": 25,
+            "nama_unit": "Biro Perencanaan",
+            "singkatan": "Biro Renbang",
+            "fungsi": "Menyusun perencanaan strategis kementerian",
+            "alamat": "Jl. Lapangan Banteng Timur No. 2-4, Jakarta",
+            "telepon": "+62-21-3845000"
+        }
+    ],
+    "Sekretariat_Jenderal_DPR": [
+        {
+            "id": 1,
+            "nama": "Budi Santoso",
+            "jabatan": "Sekretaris Jenderal",
+            "unit_kerja": "Sekretariat Jenderal",
+            "email": "budi.santoso@dpr.go.id",
+            "telepon": "021-1234567"
+        },
+        {
+            "id": 2,
+            "nama": "Siti Aminah",
+            "jabatan": "Wakil Sekretaris Jenderal",
+            "unit_kerja": "Sekretariat Jenderal",
+            "email": "siti.aminah@dpr.go.id",
+            "telepon": "021-1234568"
+        },
+        {
+            "id": 3,
+            "nama": "Agus Prasetyo",
+            "jabatan": "Kepala Bagian Umum",
+            "unit_kerja": "Biro Umum",
+            "email": "agus.prasetyo@dpr.go.id",
+            "telepon": "021-1234569"
+        },
+        {
+            "id": 4,
+            "nama": "Dewi Lestari",
+            "jabatan": "Kepala Bagian Keuangan",
+            "unit_kerja": "Biro Keuangan",
+            "email": "dewi.lestari@dpr.go.id",
+            "telepon": "021-1234570"
+        },
+        {
+            "id": 5,
+            "nama": "Rizky Hidayat",
+            "jabatan": "Kepala Bagian Humas",
+            "unit_kerja": "Biro Humas",
+            "email": "rizky.hidayat@dpr.go.id",
+            "telepon": "021-1234571"
+        },
+        {
+            "id": 6,
+            "nama": "Maya Sari",
+            "jabatan": "Staf Administrasi",
+            "unit_kerja": "Biro Umum",
+            "email": "maya.sari@dpr.go.id",
+            "telepon": "021-1234572"
+        },
+        {
+            "id": 7,
+            "nama": "Joko Widodo",
+            "jabatan": "Staf Keuangan",
+            "unit_kerja": "Biro Keuangan",
+            "email": "joko.widodo@dpr.go.id",
+            "telepon": "021-1234573"
+        },
+        {
+            "id": 8,
+            "nama": "Lina Marlina",
+            "jabatan": "Staf Humas",
+            "unit_kerja": "Biro Humas",
+            "email": "lina.marlina@dpr.go.id",
+            "telepon": "021-1234574"
+        },
+        {
+            "id": 9,
+            "nama": "Andi Saputra",
+            "jabatan": "Kepala Subbagian Protokol",
+            "unit_kerja": "Biro Umum",
+            "email": "andi.saputra@dpr.go.id",
+            "telepon": "021-1234575"
+        },
+        {
+            "id": 10,
+            "nama": "Nina Kartika",
+            "jabatan": "Kepala Subbagian Kepegawaian",
+            "unit_kerja": "Biro Kepegawaian",
+            "email": "nina.kartika@dpr.go.id",
+            "telepon": "021-1234576"
+        },
+        {
+            "id": 11,
+            "nama": "Fajar Nugroho",
+            "jabatan": "Staf Protokol",
+            "unit_kerja": "Biro Umum",
+            "email": "fajar.nugroho@dpr.go.id",
+            "telepon": "021-1234577"
+        },
+        {
+            "id": 12,
+            "nama": "Rina Susanti",
+            "jabatan": "Staf Kepegawaian",
+            "unit_kerja": "Biro Kepegawaian",
+            "email": "rina.susanti@dpr.go.id",
+            "telepon": "021-1234578"
+        },
+        {
+            "id": 13,
+            "nama": "Dedi Kurniawan",
+            "jabatan": "Staf Humas",
+            "unit_kerja": "Biro Humas",
+            "email": "dedi.kurniawan@dpr.go.id",
+            "telepon": "021-1234579"
+        },
+        {
+            "id": 14,
+            "nama": "Sari Melati",
+            "jabatan": "Kepala Subbagian Perencanaan",
+            "unit_kerja": "Biro Perencanaan",
+            "email": "sari.melati@dpr.go.id",
+            "telepon": "021-1234580"
+        },
+        {
+            "id": 15,
+            "nama": "Bambang Supriyadi",
+            "jabatan": "Staf Perencanaan",
+            "unit_kerja": "Biro Perencanaan",
+            "email": "bambang.supriyadi@dpr.go.id",
+            "telepon": "021-1234581"
+        },
+        {
+            "id": 16,
+            "nama": "Wulan Permata",
+            "jabatan": "Kepala Subbagian Pengelolaan Data",
+            "unit_kerja": "Biro Data dan Informasi",
+            "email": "wulan.permata@dpr.go.id",
+            "telepon": "021-1234582"
+        },
+        {
+            "id": 17,
+            "nama": "Eko Prabowo",
+            "jabatan": "Staf Pengelolaan Data",
+            "unit_kerja": "Biro Data dan Informasi",
+            "email": "eko.prabowo@dpr.go.id",
+            "telepon": "021-1234583"
+        },
+        {
+            "id": 18,
+            "nama": "Fitri Handayani",
+            "jabatan": "Kepala Subbagian Keamanan",
+            "unit_kerja": "Biro Umum",
+            "email": "fitri.handayani@dpr.go.id",
+            "telepon": "021-1234584"
+        },
+        {
+            "id": 19,
+            "nama": "Rizal Maulana",
+            "jabatan": "Staf Keamanan",
+            "unit_kerja": "Biro Umum",
+            "email": "rizal.maulana@dpr.go.id",
+            "telepon": "021-1234585"
+        },
+        {
+            "id": 20,
+            "nama": "Nadia Putri",
+            "jabatan": "Kepala Subbagian Pengadaan",
+            "unit_kerja": "Biro Pengadaan",
+            "email": "nadia.putri@dpr.go.id",
+            "telepon": "021-1234586"
+        },
+        {
+            "id": 21,
+            "nama": "Hendra Gunawan",
+            "jabatan": "Staf Pengadaan",
+            "unit_kerja": "Biro Pengadaan",
+            "email": "hendra.gunawan@dpr.go.id",
+            "telepon": "021-1234587"
+        },
+        {
+            "id": 22,
+            "nama": "Lia Amalia",
+            "jabatan": "Kepala Subbagian Dokumentasi",
+            "unit_kerja": "Biro Humas",
+            "email": "lia.amalia@dpr.go.id",
+            "telepon": "021-1234588"
+        },
+        {
+            "id": 23,
+            "nama": "Taufik Hidayat",
+            "jabatan": "Staf Dokumentasi",
+            "unit_kerja": "Biro Humas",
+            "email": "taufik.hidayat@dpr.go.id",
+            "telepon": "021-1234589"
+        },
+        {
+            "id": 24,
+            "nama": "Yuni Astuti",
+            "jabatan": "Kepala Subbagian Pelayanan",
+            "unit_kerja": "Biro Umum",
+            "email": "yuni.astuti@dpr.go.id",
+            "telepon": "021-1234590"
+        },
+        {
+            "id": 25,
+            "nama": "Agung Prabowo",
+            "jabatan": "Staf Pelayanan",
+            "unit_kerja": "Biro Umum",
+            "email": "agung.prabowo@dpr.go.id",
+            "telepon": "021-1234591"
+        }
+    ],
+    "Badan_Pemeriksa_Keuangan": [
+        {
+            "id": 1,
+            "nama": "BPK RI",
+            "alamat": "Jl. Jenderal Gatot Subroto No.31, Jakarta",
+            "telepon": "+62-21-570-1234",
+            "email": "info@bpk.go.id",
+            "website": "https://www.bpk.go.id",
+            "provinsi": "DKI Jakarta"
+        },
+        {
+            "id": 2,
+            "nama": "BPK Perwakilan Provinsi Jawa Barat",
+            "alamat": "Jl. Dipatiukur No. 48, Bandung",
+            "telepon": "+62-22-250-1234",
+            "email": "jabar@bpk.go.id",
+            "website": "https://jabar.bpk.go.id",
+            "provinsi": "Jawa Barat"
+        },
+        {
+            "id": 3,
+            "nama": "BPK Perwakilan Provinsi Jawa Tengah",
+            "alamat": "Jl. Pemuda No. 148, Semarang",
+            "telepon": "+62-24-351-1234",
+            "email": "jateng@bpk.go.id",
+            "website": "https://jateng.bpk.go.id",
+            "provinsi": "Jawa Tengah"
+        },
+        {
+            "id": 4,
+            "nama": "BPK Perwakilan Provinsi Jawa Timur",
+            "alamat": "Jl. A. Yani No. 242, Surabaya",
+            "telepon": "+62-31-567-1234",
+            "email": "jatim@bpk.go.id",
+            "website": "https://jatim.bpk.go.id",
+            "provinsi": "Jawa Timur"
+        },
+        {
+            "id": 5,
+            "nama": "BPK Perwakilan Provinsi Sumatera Utara",
+            "alamat": "Jl. Imam Bonjol No. 12, Medan",
+            "telepon": "+62-61-456-1234",
+            "email": "sumut@bpk.go.id",
+            "website": "https://sumut.bpk.go.id",
+            "provinsi": "Sumatera Utara"
+        },
+        {
+            "id": 6,
+            "nama": "BPK Perwakilan Provinsi Sulawesi Selatan",
+            "alamat": "Jl. Urip Sumoharjo No. 45, Makassar",
+            "telepon": "+62-41-345-1234",
+            "email": "sulsel@bpk.go.id",
+            "website": "https://sulsel.bpk.go.id",
+            "provinsi": "Sulawesi Selatan"
+        },
+        {
+            "id": 7,
+            "nama": "BPK Perwakilan Provinsi Bali",
+            "alamat": "Jl. Raya Puputan No. 123, Denpasar",
+            "telepon": "+62-361-234-1234",
+            "email": "bali@bpk.go.id",
+            "website": "https://bali.bpk.go.id",
+            "provinsi": "Bali"
+        },
+        {
+            "id": 8,
+            "nama": "BPK Perwakilan Provinsi Kalimantan Timur",
+            "alamat": "Jl. Mulawarman No. 67, Samarinda",
+            "telepon": "+62-541-321-1234",
+            "email": "kaltim@bpk.go.id",
+            "website": "https://kaltim.bpk.go.id",
+            "provinsi": "Kalimantan Timur"
+        },
+        {
+            "id": 9,
+            "nama": "BPK Perwakilan Provinsi Riau",
+            "alamat": "Jl. Jenderal Sudirman No. 89, Pekanbaru",
+            "telepon": "+62-761-234-1234",
+            "email": "riau@bpk.go.id",
+            "website": "https://riau.bpk.go.id",
+            "provinsi": "Riau"
+        },
+        {
+            "id": 10,
+            "nama": "BPK Perwakilan Provinsi Lampung",
+            "alamat": "Jl. ZA Pagar Alam No. 10, Bandar Lampung",
+            "telepon": "+62-721-234-1234",
+            "email": "lampung@bpk.go.id",
+            "website": "https://lampung.bpk.go.id",
+            "provinsi": "Lampung"
+        },
+        {
+            "id": 11,
+            "nama": "BPK Perwakilan Provinsi Aceh",
+            "alamat": "Jl. Teuku Umar No. 45, Banda Aceh",
+            "telepon": "+62-651-234-1234",
+            "email": "aceh@bpk.go.id",
+            "website": "https://aceh.bpk.go.id",
+            "provinsi": "Aceh"
+        },
+        {
+            "id": 12,
+            "nama": "BPK Perwakilan Provinsi Bengkulu",
+            "alamat": "Jl. S. Parman No. 23, Bengkulu",
+            "telepon": "+62-732-234-1234",
+            "email": "bengkulu@bpk.go.id",
+            "website": "https://bengkulu.bpk.go.id",
+            "provinsi": "Bengkulu"
+        },
+        {
+            "id": 13,
+            "nama": "BPK Perwakilan Provinsi Jambi",
+            "alamat": "Jl. Sudirman No. 56, Jambi",
+            "telepon": "+62-741-234-1234",
+            "email": "jambi@bpk.go.id",
+            "website": "https://jambi.bpk.go.id",
+            "provinsi": "Jambi"
+        },
+        {
+            "id": 14,
+            "nama": "BPK Perwakilan Provinsi Kalimantan Barat",
+            "alamat": "Jl. Ahmad Yani No. 78, Pontianak",
+            "telepon": "+62-561-234-1234",
+            "email": "kalbar@bpk.go.id",
+            "website": "https://kalbar.bpk.go.id",
+            "provinsi": "Kalimantan Barat"
+        },
+        {
+            "id": 15,
+            "nama": "BPK Perwakilan Provinsi Kalimantan Selatan",
+            "alamat": "Jl. Lambung Mangkurat No. 90, Banjarmasin",
+            "telepon": "+62-511-234-1234",
+            "email": "kalsel@bpk.go.id",
+            "website": "https://kalsel.bpk.go.id",
+            "provinsi": "Kalimantan Selatan"
+        },
+        {
+            "id": 16,
+            "nama": "BPK Perwakilan Provinsi Kalimantan Tengah",
+            "alamat": "Jl. G. Obos No. 12, Palangka Raya",
+            "telepon": "+62-536-234-1234",
+            "email": "kalteng@bpk.go.id",
+            "website": "https://kalteng.bpk.go.id",
+            "provinsi": "Kalimantan Tengah"
+        },
+        {
+            "id": 17,
+            "nama": "BPK Perwakilan Provinsi Kepulauan Riau",
+            "alamat": "Jl. Raja Haji Fisabilillah No. 34, Tanjung Pinang",
+            "telepon": "+62-771-234-1234",
+            "email": "kepri@bpk.go.id",
+            "website": "https://kepri.bpk.go.id",
+            "provinsi": "Kepulauan Riau"
+        },
+        {
+            "id": 18,
+            "nama": "BPK Perwakilan Provinsi Nusa Tenggara Barat",
+            "alamat": "Jl. Pejanggik No. 56, Mataram",
+            "telepon": "+62-370-234-1234",
+            "email": "ntb@bpk.go.id",
+            "website": "https://ntb.bpk.go.id",
+            "provinsi": "Nusa Tenggara Barat"
+        },
+        {
+            "id": 19,
+            "nama": "BPK Perwakilan Provinsi Nusa Tenggara Timur",
+            "alamat": "Jl. El Tari No. 78, Kupang",
+            "telepon": "+62-380-234-1234",
+            "email": "ntt@bpk.go.id",
+            "website": "https://ntt.bpk.go.id",
+            "provinsi": "Nusa Tenggara Timur"
+        },
+        {
+            "id": 20,
+            "nama": "BPK Perwakilan Provinsi Papua",
+            "alamat": "Jl. Yos Sudarso No. 90, Jayapura",
+            "telepon": "+62-967-234-1234",
+            "email": "papua@bpk.go.id",
+            "website": "https://papua.bpk.go.id",
+            "provinsi": "Papua"
+        },
+        {
+            "id": 21,
+            "nama": "BPK Perwakilan Provinsi Papua Barat",
+            "alamat": "Jl. Siliwangi No. 12, Manokwari",
+            "telepon": "+62-951-234-1234",
+            "email": "papuabarat@bpk.go.id",
+            "website": "https://papuabarat.bpk.go.id",
+            "provinsi": "Papua Barat"
+        },
+        {
+            "id": 22,
+            "nama": "BPK Perwakilan Provinsi Sulawesi Tengah",
+            "alamat": "Jl. Sam Ratulangi No. 34, Palu",
+            "telepon": "+62-451-234-1234",
+            "email": "sulteng@bpk.go.id",
+            "website": "https://sulteng.bpk.go.id",
+            "provinsi": "Sulawesi Tengah"
+        },
+        {
+            "id": 23,
+            "nama": "BPK Perwakilan Provinsi Sulawesi Tenggara",
+            "alamat": "Jl. Haluoleo No. 56, Kendari",
+            "telepon": "+62-401-234-1234",
+            "email": "sultra@bpk.go.id",
+            "website": "https://sultra.bpk.go.id",
+            "provinsi": "Sulawesi Tenggara"
+        },
+        {
+            "id": 24,
+            "nama": "BPK Perwakilan Provinsi Sulawesi Utara",
+            "alamat": "Jl. Sam Ratulangi No. 78, Manado",
+            "telepon": "+62-431-234-1234",
+            "email": "sulut@bpk.go.id",
+            "website": "https://sulut.bpk.go.id",
+            "provinsi": "Sulawesi Utara"
+        },
+        {
+            "id": 25,
+            "nama": "BPK Perwakilan Provinsi Maluku",
+            "alamat": "Jl. Pattimura No. 90, Ambon",
+            "telepon": "+62-911-234-1234",
+            "email": "maluku@bpk.go.id",
+            "website": "https://maluku.bpk.go.id",
+            "provinsi": "Maluku"
+        }
+    ],
+    "Dirjen_Pajak_Data_Teranonimisasi": [
+        {
+            "npwp": "01.234.567.8-901.000",
+            "nama": "Warga A",
+            "alamat": "Jl. Merdeka No. 1, Jakarta",
+            "jenis_pajak": "PPh Orang Pribadi",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 1500000,
+            "status_pembayaran": "Lunas"
+        },
+        {
+            "npwp": "02.345.678.9-012.000",
+            "nama": "Warga B",
+            "alamat": "Jl. Sudirman No. 10, Bandung",
+            "jenis_pajak": "PPh Badan",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 5000000,
+            "status_pembayaran": "Belum Lunas"
+        },
+        {
+            "npwp": "03.456.789.0-123.000",
+            "nama": "Warga C",
+            "alamat": "Jl. Diponegoro No. 5, Surabaya",
+            "jenis_pajak": "PPh Orang Pribadi",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 2000000,
+            "status_pembayaran": "Lunas"
+        },
+        {
+            "npwp": "04.567.890.1-234.000",
+            "nama": "Warga D",
+            "alamat": "Jl. Gatot Subroto No. 20, Medan",
+            "jenis_pajak": "PPh Badan",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 7500000,
+            "status_pembayaran": "Lunas"
+        },
+        {
+            "npwp": "05.678.901.2-345.000",
+            "nama": "Warga E",
+            "alamat": "Jl. Ahmad Yani No. 15, Semarang",
+            "jenis_pajak": "PPh Orang Pribadi",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 1200000,
+            "status_pembayaran": "Belum Lunas"
+        },
+        {
+            "npwp": "06.789.012.3-456.000",
+            "nama": "Warga F",
+            "alamat": "Jl. Hasanuddin No. 8, Makassar",
+            "jenis_pajak": "PPh Badan",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 6000000,
+            "status_pembayaran": "Lunas"
+        },
+        {
+            "npwp": "07.890.123.4-567.000",
+            "nama": "Warga G",
+            "alamat": "Jl. Pahlawan No. 12, Yogyakarta",
+            "jenis_pajak": "PPh Orang Pribadi",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 1800000,
+            "status_pembayaran": "Lunas"
+        },
+        {
+            "npwp": "08.901.234.5-678.000",
+            "nama": "Warga H",
+            "alamat": "Jl. Sultan Agung No. 7, Palembang",
+            "jenis_pajak": "PPh Badan",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 4500000,
+            "status_pembayaran": "Belum Lunas"
+        },
+        {
+            "npwp": "09.012.345.6-789.000",
+            "nama": "Warga I",
+            "alamat": "Jl. Teuku Umar No. 3, Banda Aceh",
+            "jenis_pajak": "PPh Orang Pribadi",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 1300000,
+            "status_pembayaran": "Lunas"
+        },
+        {
+            "npwp": "10.123.456.7-890.000",
+            "nama": "Warga J",
+            "alamat": "Jl. Dipatiukur No. 9, Bandung",
+            "jenis_pajak": "PPh Badan",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 7000000,
+            "status_pembayaran": "Lunas"
+        },
+        {
+            "npwp": "11.234.567.8-901.001",
+            "nama": "Warga K",
+            "alamat": "Jl. Imam Bonjol No. 4, Jakarta",
+            "jenis_pajak": "PPh Orang Pribadi",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 1600000,
+            "status_pembayaran": "Belum Lunas"
+        },
+        {
+            "npwp": "12.345.678.9-012.001",
+            "nama": "Warga L",
+            "alamat": "Jl. Raden Saleh No. 11, Surabaya",
+            "jenis_pajak": "PPh Badan",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 5200000,
+            "status_pembayaran": "Lunas"
+        },
+        {
+            "npwp": "13.456.789.0-123.001",
+            "nama": "Warga M",
+            "alamat": "Jl. Sisingamangaraja No. 6, Medan",
+            "jenis_pajak": "PPh Orang Pribadi",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 2100000,
+            "status_pembayaran": "Lunas"
+        },
+        {
+            "npwp": "14.567.890.1-234.001",
+            "nama": "Warga N",
+            "alamat": "Jl. Diponegoro No. 21, Semarang",
+            "jenis_pajak": "PPh Badan",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 7600000,
+            "status_pembayaran": "Belum Lunas"
+        },
+        {
+            "npwp": "15.678.901.2-345.001",
+            "nama": "Warga O",
+            "alamat": "Jl. Ahmad Yani No. 16, Makassar",
+            "jenis_pajak": "PPh Orang Pribadi",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 1250000,
+            "status_pembayaran": "Lunas"
+        },
+        {
+            "npwp": "16.789.012.3-456.001",
+            "nama": "Warga P",
+            "alamat": "Jl. Hasanuddin No. 9, Yogyakarta",
+            "jenis_pajak": "PPh Badan",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 6100000,
+            "status_pembayaran": "Lunas"
+        },
+        {
+            "npwp": "17.890.123.4-567.001",
+            "nama": "Warga Q",
+            "alamat": "Jl. Pahlawan No. 13, Palembang",
+            "jenis_pajak": "PPh Orang Pribadi",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 1850000,
+            "status_pembayaran": "Belum Lunas"
+        },
+        {
+            "npwp": "18.901.234.5-678.001",
+            "nama": "Warga R",
+            "alamat": "Jl. Sultan Agung No. 8, Banda Aceh",
+            "jenis_pajak": "PPh Badan",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 4600000,
+            "status_pembayaran": "Lunas"
+        },
+        {
+            "npwp": "19.012.345.6-789.001",
+            "nama": "Warga S",
+            "alamat": "Jl. Teuku Umar No. 4, Jakarta",
+            "jenis_pajak": "PPh Orang Pribadi",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 1350000,
+            "status_pembayaran": "Lunas"
+        },
+        {
+            "npwp": "20.123.456.7-890.001",
+            "nama": "Warga T",
+            "alamat": "Jl. Dipatiukur No. 10, Bandung",
+            "jenis_pajak": "PPh Badan",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 7100000,
+            "status_pembayaran": "Belum Lunas"
+        },
+        {
+            "npwp": "21.234.567.8-901.002",
+            "nama": "Warga U",
+            "alamat": "Jl. Imam Bonjol No. 5, Surabaya",
+            "jenis_pajak": "PPh Orang Pribadi",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 1650000,
+            "status_pembayaran": "Lunas"
+        },
+        {
+            "npwp": "22.345.678.9-012.002",
+            "nama": "Warga V",
+            "alamat": "Jl. Raden Saleh No. 12, Medan",
+            "jenis_pajak": "PPh Badan",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 5300000,
+            "status_pembayaran": "Lunas"
+        },
+        {
+            "npwp": "23.456.789.0-123.002",
+            "nama": "Warga W",
+            "alamat": "Jl. Sisingamangaraja No. 7, Semarang",
+            "jenis_pajak": "PPh Orang Pribadi",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 2150000,
+            "status_pembayaran": "Belum Lunas"
+        },
+        {
+            "npwp": "24.567.890.1-234.002",
+            "nama": "Warga X",
+            "alamat": "Jl. Diponegoro No. 22, Makassar",
+            "jenis_pajak": "PPh Badan",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 7700000,
+            "status_pembayaran": "Lunas"
+        },
+        {
+            "npwp": "25.678.901.2-345.002",
+            "nama": "Warga Y",
+            "alamat": "Jl. Ahmad Yani No. 17, Yogyakarta",
+            "jenis_pajak": "PPh Orang Pribadi",
+            "tahun": 2023,
+            "jumlah_pajak_terutang": 1300000,
+            "status_pembayaran": "Lunas"
+        }
+    ]
+}
